@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+h2{
+    color: LightGrey;
+}
+
+body{
+    background-color: black;
+} 
